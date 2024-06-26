@@ -17,3 +17,8 @@ $ uptime
 ```go
 var grades = []int{0,1,2,3,4}
 ```
+
+# Tasks List
+- [X] Task 1
+- [ ] Task 2
+- [ ] Task n..
